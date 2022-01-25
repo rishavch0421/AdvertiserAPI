@@ -1,0 +1,21 @@
+{
+	"name": "advertiserAPI",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"axios": "^0.19.2",
+		"cors": "^2.8.5",
+		"couchbase": "^2.5.1",
+		"express": "^4.17.1",
+		"helmet": "^3.22.0",
+		"mssql": "^6.2.3",
+		"uuid": "^8.0.0"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
